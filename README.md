@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasan666" alt="prasan666" /></a> </p>
 
-- 🔭 I’m currently working for [SpotDraft](https://spotdraft.com)
+- 🔭 I’m currently working at [SpotDraft](https://spotdraft.com)
 
 - 🌱 I’m currently learning **Ngrx,React**
 
