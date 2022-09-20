@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [SpotDraft](https://spotdraft.com)
 
-- 🌱 I’m currently learning **Ngrx,React**
-
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **prasannakumarvelur@gmail.com**
